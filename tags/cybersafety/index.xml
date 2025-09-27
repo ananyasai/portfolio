@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersafety | Ananya Tadepalli – Professional Portfolio</title>
+    <link>http://localhost:1313/tags/cybersafety/</link>
+      <atom:link href="http://localhost:1313/tags/cybersafety/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cybersafety</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Cybersafety</title>
+      <link>http://localhost:1313/tags/cybersafety/</link>
+    </image>
+    
+    <item>
+      <title>Personal Cyber Risk Assessment Tool</title>
+      <link>http://localhost:1313/blog/p-crat/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/p-crat/</guid>
+      <description>&lt;p&gt;“ Risk comes from not knowing what you’re doing&amp;quot; - Warren Buffett&lt;/p&gt;
+&lt;p&gt;In his book “Born to Run”, Christopher McDougall writes,&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Every morning in Africa, a gazelle wakes up. It knows it must run faster than the fastest lion or it will be killed. Every morning a lion wakes up. It knows it must outrun the slowest gazelle or it will starve to death. It doesn&amp;rsquo;t matter whether you&amp;rsquo;re a lion or gazelle. When the sun comes up, you&amp;rsquo;d better be running.&amp;rdquo;
+Today in the Cyber-world there is similar desperate race for survival, where we are all facing the predicament of the Gazelle, while hackers are searching for their next victim. Fortunately for us we don’t have to be better than the best hacker, rather it is enough for us be better than other targets.  
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

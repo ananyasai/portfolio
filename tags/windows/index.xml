@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows | Ananya Tadepalli – Professional Portfolio</title>
+    <link>http://localhost:1313/tags/windows/</link>
+      <atom:link href="http://localhost:1313/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <description>Windows</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Windows</title>
+      <link>http://localhost:1313/tags/windows/</link>
+    </image>
+    
+    <item>
+      <title>Assess Impact of QSC</title>
+      <link>http://localhost:1313/projects/qsc-impact/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/qsc-impact/</guid>
+      <description>&lt;p&gt;Tool to analyze impact of missing security patches&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
