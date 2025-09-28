@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awareness | Ananya Tadepalli – Professional Portfolio</title>
+    <link>https://ananyasai.github.io/portfolio/tags/awareness/</link>
+      <atom:link href="https://ananyasai.github.io/portfolio/tags/awareness/index.xml" rel="self" type="application/rss+xml" />
+    <description>Awareness</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ananyasai.github.io/portfolio/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Awareness</title>
+      <link>https://ananyasai.github.io/portfolio/tags/awareness/</link>
+    </image>
+    
+    <item>
+      <title>From Cybersecurity Awareness to Awakening</title>
+      <link>https://ananyasai.github.io/portfolio/blog/cybersecurity-awareness-to-awakening/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/blog/cybersecurity-awareness-to-awakening/</guid>
+      <description>&lt;p&gt;In a world where cyber warfare and hacktivists are on the rise, personal cybersecurity becomes all the more important. Hello, my name is Ananya! I am a senior at Innovation Academy pursuing the IT and Cybersecurity pathways. In recent months, we have witnessed alarming cyber incidents, from the targeting of Atlanta airport by pro-Russian hacktivists to disruptions in the Fulton County School District. We are at a pivotal moment because our traditional security views are colliding with the reality of cyber warfare of the 21st century—join me as I discuss how these crossroads can lead us to a safer, more secure tomorrow.&lt;/p&gt;
+&lt;p&gt;Watch the full TEDx talk here: 
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

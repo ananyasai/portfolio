@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT | Ananya Tadepalli – Professional Portfolio</title>
+    <link>https://ananyasai.github.io/portfolio/tags/iot/</link>
+      <atom:link href="https://ananyasai.github.io/portfolio/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <description>IoT</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ananyasai.github.io/portfolio/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>IoT</title>
+      <link>https://ananyasai.github.io/portfolio/tags/iot/</link>
+    </image>
+    
+    <item>
+      <title>The Home Internet of Things: Connecting You to the World</title>
+      <link>https://ananyasai.github.io/portfolio/blog/home-iot/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/blog/home-iot/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;The &amp;ldquo;Internet of Things&amp;rdquo; refers to a vastly augmented network of interconnected devices that gather and exchange data over the internet to make lives easier. Ranging from simple sensors to complex systems, these devices can be installed at home, workplaces, or cities. IoT has formed a significant part of our daily life and appears in different forms such as:&lt;/p&gt;
+&lt;p&gt;Home thermostat to lighting and security can be monitored and controlled by a person using their smartphone, ensuring the best energy usage and peace of mind.
+Wearable devices, from fitness trackers to smartwatches, track health metrics, providing incentives to live more healthily by monitoring daily activities, sleep patterns, and heart rates.
+In the kitchen, smart devices work to simplify meal preparation and management—many of them interface with virtual assistants like Amazon Alexa or Google Assistant.
+Modern cars are equipped with smart sensors, through which it can be diagnosed in real time on its performance, navigation, and autonomous driving.   
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
