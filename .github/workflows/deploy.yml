@@ -20,8 +20,8 @@ jobs:
       # Install dependencies using npm
       - run: npm ci
 
-      # Install Hugo
-      - uses: peaceiris/actions-hugo@v0.12.0
+      # Setup Hugo
+      - uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.150.1'
 
@@ -29,7 +29,7 @@ jobs:
       - run: hugo --cleanDestinationDir
 
       # Deploy to gh-pages
-      - uses: peaceiris/actions-gh-pages@v6
+      - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.MY_GITHUB_TOKEN }}
           publish_dir: ./public
