@@ -82,7 +82,16 @@ sections:
     design:
       view: article-grid
       columns: 3
-
+  - block: collection
+    content:
+      title: Relevant Courses
+      text: ''
+      filters:
+        folders:
+          - courses
+        exclude_featured: false
+    design:
+      view: citation
   - block: collection
     id: news
     content:
