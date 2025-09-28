@@ -83,6 +83,16 @@ sections:
       view: article-grid
       columns: 3
   - block: collection
+    id: projects
+    content:
+      title: "Relevant Projects"
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
     content:
       title: Relevant Courses
       text: ''
