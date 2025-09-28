@@ -3,11 +3,12 @@ name: Deploy Hugo site to Pages
 on:
   push:
     branches:
-      - main  # or "master" depending on your default branch
+      - main  # or "master" if that's your default branch
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -18,13 +19,21 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Build
-        run: hugo --cleanDestinationDir
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
 
-      - name: Deploy
+      - name: Install Tailwind & PostCSS
+        run: npm install -g tailwindcss postcss autoprefixer
+
+      - name: Build with Hugo
+        run: hugo --cleanDestinationDir --minify
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
           force_orphan: true
