@@ -3,7 +3,7 @@ name: Deploy Hugo site to Pages
 on:
   push:
     branches:
-      - main  # or "master" if that's your default branch
+      - main
 
 jobs:
   deploy:
@@ -24,8 +24,11 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Install Tailwind & PostCSS
-        run: npm install -g tailwindcss postcss autoprefixer
+      - name: Install pnpm
+        run: npm install -g pnpm@10.14.0
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
 
       - name: Build with Hugo
         run: hugo --cleanDestinationDir --minify
