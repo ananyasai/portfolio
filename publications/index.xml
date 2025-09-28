@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Ananya Tadepalli – Professional Portfolio</title>
-    <link>http://localhost:1313/publications/</link>
-      <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ananyasai.github.io/portfolio/publications/</link>
+      <atom:link href="https://ananyasai.github.io/portfolio/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://ananyasai.github.io/portfolio/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>https://ananyasai.github.io/portfolio/publications/</link>
     </image>
     
     <item>
       <title>The Impact of Quantum-Safe Cryptography (QSC) on Website Response</title>
-      <link>http://localhost:1313/publications/conference-paper/</link>
+      <link>https://ananyasai.github.io/portfolio/publications/conference-paper/</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/conference-paper/</guid>
+      <guid>https://ananyasai.github.io/portfolio/publications/conference-paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyberville Chronicles</title>
-      <link>http://localhost:1313/publications/cyberville-chronicles/</link>
+      <link>https://ananyasai.github.io/portfolio/publications/cyberville-chronicles/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/cyberville-chronicles/</guid>
+      <guid>https://ananyasai.github.io/portfolio/publications/cyberville-chronicles/</guid>
       <description>&lt;p&gt;&lt;em&gt;Cyberville Chronicles&lt;/em&gt; is a children’s cybersecurity storybook designed to engage and educate young readers about safe digital practices, online threats, and the ethics of security.&lt;/p&gt;
 &lt;p&gt;This book is available on Amazon: 
 &lt;/p&gt;

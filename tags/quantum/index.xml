@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum | Ananya Tadepalli – Professional Portfolio</title>
-    <link>http://localhost:1313/tags/quantum/</link>
-      <atom:link href="http://localhost:1313/tags/quantum/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ananyasai.github.io/portfolio/tags/quantum/</link>
+      <atom:link href="https://ananyasai.github.io/portfolio/tags/quantum/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://ananyasai.github.io/portfolio/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Quantum</title>
-      <link>http://localhost:1313/tags/quantum/</link>
+      <link>https://ananyasai.github.io/portfolio/tags/quantum/</link>
     </image>
     
     <item>
+      <title>Staying Quantum Safe</title>
+      <link>https://ananyasai.github.io/portfolio/blog/quantum-safe/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/blog/quantum-safe/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;On August 13th, 2024, NIST announced the first three post-quantum cryptography (PQC) standards after 8 years of research into techniques to guard against data breaches using Quantum Computers. Cryptography has always been shrouded in mystery and intrigue; hence I began this blog to answer some common questions, with the intent of increasing adoption by de-mystifying.   
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Variational Quantum Classifier</title>
-      <link>http://localhost:1313/projects/p-crat/</link>
+      <link>https://ananyasai.github.io/portfolio/projects/quantum-classifier/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/p-crat/</guid>
+      <guid>https://ananyasai.github.io/portfolio/projects/quantum-classifier/</guid>
       <description>&lt;p&gt;A novel approach to &amp;hellip;.&lt;/p&gt;</description>
     </item>
     

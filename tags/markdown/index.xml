@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown | Ananya Tadepalli – Professional Portfolio</title>
-    <link>http://localhost:1313/tags/markdown/</link>
-      <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ananyasai.github.io/portfolio/tags/markdown/</link>
+      <atom:link href="https://ananyasai.github.io/portfolio/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://ananyasai.github.io/portfolio/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://ananyasai.github.io/portfolio/tags/markdown/</link>
     </image>
     
     <item>
       <title>P-CRAT</title>
-      <link>http://localhost:1313/projects/p-crat/</link>
+      <link>https://ananyasai.github.io/portfolio/projects/p-crat/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/p-crat/</guid>
+      <guid>https://ananyasai.github.io/portfolio/projects/p-crat/</guid>
       <description>&lt;p&gt;A structured approach to assess, reccommend and measure improvements in threat posture&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Win-TER</title>
-      <link>http://localhost:1313/projects/win-ter/</link>
+      <link>https://ananyasai.github.io/portfolio/projects/win-ter/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/win-ter/</guid>
+      <guid>https://ananyasai.github.io/portfolio/projects/win-ter/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     

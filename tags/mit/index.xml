@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MIT | Ananya Tadepalli – Professional Portfolio</title>
-    <link>http://localhost:1313/tags/mit/</link>
-      <atom:link href="http://localhost:1313/tags/mit/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ananyasai.github.io/portfolio/tags/mit/</link>
+      <atom:link href="https://ananyasai.github.io/portfolio/tags/mit/index.xml" rel="self" type="application/rss+xml" />
     <description>MIT</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://ananyasai.github.io/portfolio/media/icon_hu_982c5d63a71b2961.png</url>
       <title>MIT</title>
-      <link>http://localhost:1313/tags/mit/</link>
+      <link>https://ananyasai.github.io/portfolio/tags/mit/</link>
     </image>
     
     <item>
       <title>Variational Quantum Classifier</title>
-      <link>http://localhost:1313/projects/p-crat/</link>
+      <link>https://ananyasai.github.io/portfolio/projects/quantum-classifier/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/p-crat/</guid>
+      <guid>https://ananyasai.github.io/portfolio/projects/quantum-classifier/</guid>
       <description>&lt;p&gt;A novel approach to &amp;hellip;.&lt;/p&gt;</description>
     </item>
     

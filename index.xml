@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ananya Tadepalli – Professional Portfolio</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ananyasai.github.io/portfolio/</link>
+      <atom:link href="https://ananyasai.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <description>Ananya Tadepalli – Professional Portfolio</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://ananyasai.github.io/portfolio/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Ananya Tadepalli – Professional Portfolio</title>
-      <link>http://localhost:1313/</link>
+      <link>https://ananyasai.github.io/portfolio/</link>
     </image>
     
     <item>
       <title>Getting Started</title>
-      <link>http://localhost:1313/courses/hugo-blox/getting-started/</link>
+      <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/getting-started/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/hugo-blox/getting-started/</guid>
+      <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/getting-started/</guid>
       <description>&lt;h2 id=&#34;quick-start-from-template&#34;&gt;Quick Start from Template&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;
 &lt;h3 id=&#34;create-a-site&#34;&gt;Create a site&lt;/h3&gt;
@@ -65,9 +65,9 @@
     
     <item>
       <title>Customizing Hugo</title>
-      <link>http://localhost:1313/courses/hugo-blox/reference/customization/</link>
+      <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/reference/customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/hugo-blox/reference/customization/</guid>
+      <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/reference/customization/</guid>
       <description>&lt;p&gt;View the full docs at 
 &lt;/p&gt;
 </description>
@@ -75,9 +75,9 @@
     
     <item>
       <title>Project Structure</title>
-      <link>http://localhost:1313/courses/hugo-blox/guide/project-structure/</link>
+      <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/project-structure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/hugo-blox/guide/project-structure/</guid>
+      <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/project-structure/</guid>
       <description>&lt;h2 id=&#34;folder-structure&#34;&gt;Folder Structure&lt;/h2&gt;
 &lt;p&gt;There are &lt;strong&gt;4 main folders for Hugo-based sites&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -131,9 +131,9 @@
     
     <item>
       <title>Configuration</title>
-      <link>http://localhost:1313/courses/hugo-blox/guide/configuration/</link>
+      <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/hugo-blox/guide/configuration/</guid>
+      <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/configuration/</guid>
       <description>&lt;p&gt;The configuration of your site can be found in &lt;code&gt;config/_default/&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;full-documentation&#34;&gt;Full Documentation&lt;/h2&gt;
 &lt;p&gt;See 
@@ -170,17 +170,17 @@
     
     <item>
       <title>The Impact of Quantum-Safe Cryptography (QSC) on Website Response</title>
-      <link>http://localhost:1313/publications/conference-paper/</link>
+      <link>https://ananyasai.github.io/portfolio/publications/conference-paper/</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/conference-paper/</guid>
+      <guid>https://ananyasai.github.io/portfolio/publications/conference-paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Impact of Quantum-Safe Cryptography on Website Response</title>
-      <link>http://localhost:1313/events/13th-computing-conference-2025/</link>
+      <link>https://ananyasai.github.io/portfolio/events/13th-computing-conference-2025/</link>
       <pubDate>Thu, 19 Jun 2025 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/13th-computing-conference-2025/</guid>
+      <guid>https://ananyasai.github.io/portfolio/events/13th-computing-conference-2025/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/XPp_c2wgvWM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -190,9 +190,9 @@
     
     <item>
       <title>Cyberville Chronicles</title>
-      <link>http://localhost:1313/publications/cyberville-chronicles/</link>
+      <link>https://ananyasai.github.io/portfolio/publications/cyberville-chronicles/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/cyberville-chronicles/</guid>
+      <guid>https://ananyasai.github.io/portfolio/publications/cyberville-chronicles/</guid>
       <description>&lt;p&gt;&lt;em&gt;Cyberville Chronicles&lt;/em&gt; is a children’s cybersecurity storybook designed to engage and educate young readers about safe digital practices, online threats, and the ethics of security.&lt;/p&gt;
 &lt;p&gt;This book is available on Amazon: 
 &lt;/p&gt;
@@ -201,9 +201,9 @@
     
     <item>
       <title>The Impact of Quantum-Safe Cryptography on Website Response</title>
-      <link>http://localhost:1313/events/wicys-2024/</link>
+      <link>https://ananyasai.github.io/portfolio/events/wicys-2024/</link>
       <pubDate>Thu, 03 Apr 2025 09:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/wicys-2024/</guid>
+      <guid>https://ananyasai.github.io/portfolio/events/wicys-2024/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/G3FrUd9csXQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -213,9 +213,9 @@
     
     <item>
       <title>The Crypto Wave: Catch It Wisely</title>
-      <link>http://localhost:1313/blog/crypto/</link>
+      <link>https://ananyasai.github.io/portfolio/blog/crypto/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/crypto/</guid>
+      <guid>https://ananyasai.github.io/portfolio/blog/crypto/</guid>
       <description>&lt;p&gt;“ Risk comes from not knowing what you’re doing&amp;quot; - Warren Buffett&lt;/p&gt;
 &lt;p&gt;The results of the US Presidential elections have sparked a new rally for crypto-related shares like Bitcoin, Dogecoin, Coinbase, and MicroStrategy. As this bull run draws more investors into the crypto market, it&amp;rsquo;s important to revisit the risks posed by cryptocurrency security threats. These risks are not just real—they can be financially catastrophic for those who fail to understand them. 
 &lt;/p&gt;
@@ -224,9 +224,9 @@
     
     <item>
       <title>Getting Ready for Quantum Safe Cryptography</title>
-      <link>http://localhost:1313/events/pearc-2024-workshop/</link>
+      <link>https://ananyasai.github.io/portfolio/events/pearc-2024-workshop/</link>
       <pubDate>Fri, 01 Nov 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/pearc-2024-workshop/</guid>
+      <guid>https://ananyasai.github.io/portfolio/events/pearc-2024-workshop/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/lgU51019Vt0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -236,9 +236,9 @@
     
     <item>
       <title>Personal Cybersecurity in the Age of Cyber Warfare</title>
-      <link>http://localhost:1313/events/tedex/</link>
+      <link>https://ananyasai.github.io/portfolio/events/tedex/</link>
       <pubDate>Mon, 07 Oct 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/tedex/</guid>
+      <guid>https://ananyasai.github.io/portfolio/events/tedex/</guid>
       <description>&lt;p&gt;Ananya Tadepalli delivered a TEDx talk discussing the importance of personal cybersecurity in the context of rising cyber warfare and hacktivist activity. She highlighted real-world incidents, including attacks on Atlanta airport and disruptions in the Fulton County School District, and shared insights on how individuals and communities can enhance their security practices.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/qt14_ajDEQg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -249,9 +249,9 @@
     
     <item>
       <title>From Cybersecurity Awareness to Awakening</title>
-      <link>http://localhost:1313/blog/cybersecurity-awareness-to-awakening/</link>
+      <link>https://ananyasai.github.io/portfolio/blog/cybersecurity-awareness-to-awakening/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/cybersecurity-awareness-to-awakening/</guid>
+      <guid>https://ananyasai.github.io/portfolio/blog/cybersecurity-awareness-to-awakening/</guid>
       <description>&lt;p&gt;In a world where cyber warfare and hacktivists are on the rise, personal cybersecurity becomes all the more important. Hello, my name is Ananya! I am a senior at Innovation Academy pursuing the IT and Cybersecurity pathways. In recent months, we have witnessed alarming cyber incidents, from the targeting of Atlanta airport by pro-Russian hacktivists to disruptions in the Fulton County School District. We are at a pivotal moment because our traditional security views are colliding with the reality of cyber warfare of the 21st century—join me as I discuss how these crossroads can lead us to a safer, more secure tomorrow.&lt;/p&gt;
 &lt;p&gt;Watch the full TEDx talk here: 
 &lt;/p&gt;
@@ -260,9 +260,9 @@
     
     <item>
       <title>Bluetooth Alert: Cybersecurity in the Wireless Realm</title>
-      <link>http://localhost:1313/blog/bluetooth-alert/</link>
+      <link>https://ananyasai.github.io/portfolio/blog/bluetooth-alert/</link>
       <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/bluetooth-alert/</guid>
+      <guid>https://ananyasai.github.io/portfolio/blog/bluetooth-alert/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;According to Intel, “over 4.7 billion Bluetooth® devices were shipped in 2021. As one of the most common wireless connectivity standards in the world, Bluetooth technology plays an integral part in everyday life.”&lt;/p&gt;
 &lt;p&gt;Bluetooth technology has revolutionized communication since its development in the 1990’s by Dutch engineer, Dr. Jaap Haarsten. It allows devices to communicate with each other without supporting network infrastructure such as a wireless router or access point.&lt;/p&gt;
@@ -273,9 +273,9 @@
     
     <item>
       <title>Staying Quantum Safe</title>
-      <link>http://localhost:1313/blog/quantum-safe/</link>
+      <link>https://ananyasai.github.io/portfolio/blog/quantum-safe/</link>
       <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/quantum-safe/</guid>
+      <guid>https://ananyasai.github.io/portfolio/blog/quantum-safe/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;On August 13th, 2024, NIST announced the first three post-quantum cryptography (PQC) standards after 8 years of research into techniques to guard against data breaches using Quantum Computers. Cryptography has always been shrouded in mystery and intrigue; hence I began this blog to answer some common questions, with the intent of increasing adoption by de-mystifying.   
 &lt;/p&gt;
@@ -284,9 +284,9 @@
     
     <item>
       <title>Beware of GenAI Hallucinations</title>
-      <link>http://localhost:1313/blog/gen-ai/</link>
+      <link>https://ananyasai.github.io/portfolio/blog/gen-ai/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/gen-ai/</guid>
+      <guid>https://ananyasai.github.io/portfolio/blog/gen-ai/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This week, for a team meeting, I was looking for a trivia question and asked ChatGPT, “How many sports will be played in the Paris Olympics 2024?” The unequivocal answer it gave was 32 and it even listed all 32 of them. But if we go to the Olympics.com, the committee will provide a list of 40 sports.  What just happened was a hallucination. ChatGPT did not have all of the details about the latest Olympics, so it assumed old data was correct and provided a confident answer.&lt;/p&gt;
 &lt;p&gt;“The thing that I try to caution people the most is what we call the ‘hallucinations problem’,” Sam Altman, CEO of OpenAI, told ABC News. “The model will confidently state things as if they were facts entirely made up.&amp;quot; he continued.   
@@ -296,9 +296,9 @@
     
     <item>
       <title>The Home Internet of Things: Connecting You to the World</title>
-      <link>http://localhost:1313/blog/home-iot/</link>
+      <link>https://ananyasai.github.io/portfolio/blog/home-iot/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/home-iot/</guid>
+      <guid>https://ananyasai.github.io/portfolio/blog/home-iot/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The &amp;ldquo;Internet of Things&amp;rdquo; refers to a vastly augmented network of interconnected devices that gather and exchange data over the internet to make lives easier. Ranging from simple sensors to complex systems, these devices can be installed at home, workplaces, or cities. IoT has formed a significant part of our daily life and appears in different forms such as:&lt;/p&gt;
 &lt;p&gt;Home thermostat to lighting and security can be monitored and controlled by a person using their smartphone, ensuring the best energy usage and peace of mind.
@@ -311,42 +311,42 @@ Modern cars are equipped with smart sensors, through which it can be diagnosed i
     
     <item>
       <title>Assess Impact of QSC</title>
-      <link>http://localhost:1313/projects/qsc-impact/</link>
+      <link>https://ananyasai.github.io/portfolio/projects/qsc-impact/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/qsc-impact/</guid>
+      <guid>https://ananyasai.github.io/portfolio/projects/qsc-impact/</guid>
       <description>&lt;p&gt;Tool to analyze impact of missing security patches&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>P-CRAT</title>
-      <link>http://localhost:1313/projects/p-crat/</link>
+      <link>https://ananyasai.github.io/portfolio/projects/p-crat/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/p-crat/</guid>
+      <guid>https://ananyasai.github.io/portfolio/projects/p-crat/</guid>
       <description>&lt;p&gt;A structured approach to assess, reccommend and measure improvements in threat posture&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Variational Quantum Classifier</title>
-      <link>http://localhost:1313/projects/quantum-classifier/</link>
+      <link>https://ananyasai.github.io/portfolio/projects/quantum-classifier/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/quantum-classifier/</guid>
+      <guid>https://ananyasai.github.io/portfolio/projects/quantum-classifier/</guid>
       <description>&lt;p&gt;A novel approach to &amp;hellip;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Win-TER</title>
-      <link>http://localhost:1313/projects/win-ter/</link>
+      <link>https://ananyasai.github.io/portfolio/projects/win-ter/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/win-ter/</guid>
+      <guid>https://ananyasai.github.io/portfolio/projects/win-ter/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Embed Media</title>
-      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/media/</link>
+      <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/media/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/media/</guid>
+      <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/media/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -510,17 +510,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://ananyasai.github.io/portfolio/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://ananyasai.github.io/portfolio/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal Cyber Risk Assessment Tool</title>
-      <link>http://localhost:1313/blog/p-crat/</link>
+      <link>https://ananyasai.github.io/portfolio/blog/p-crat/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/p-crat/</guid>
+      <guid>https://ananyasai.github.io/portfolio/blog/p-crat/</guid>
       <description>&lt;p&gt;“ Risk comes from not knowing what you’re doing&amp;quot; - Warren Buffett&lt;/p&gt;
 &lt;p&gt;In his book “Born to Run”, Christopher McDougall writes,&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Every morning in Africa, a gazelle wakes up. It knows it must run faster than the fastest lion or it will be killed. Every morning a lion wakes up. It knows it must outrun the slowest gazelle or it will starve to death. It doesn&amp;rsquo;t matter whether you&amp;rsquo;re a lion or gazelle. When the sun comes up, you&amp;rsquo;d better be running.&amp;rdquo;
@@ -531,9 +531,9 @@ Today in the Cyber-world there is similar desperate race for survival, where we 
     
     <item>
       <title>Buttons</title>
-      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/button/</link>
+      <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/button/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/button/</guid>
+      <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/button/</guid>
       <description>&lt;p&gt;A modern, customizable button shortcode with gradient styling, icons, and smart link handling.&lt;/p&gt;
 &lt;h2 id=&#34;basic-usage&#34;&gt;Basic Usage&lt;/h2&gt;
 
@@ -542,7 +542,7 @@ Today in the Cyber-world there is similar desperate race for survival, where we 
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-351ac412531c23e422b81c6422c17da5&#34;
-    href=&#34;http://localhost:1313/contact&#34;
+    href=&#34;https://ananyasai.github.io/portfolio/contact&#34;
     
     
     
@@ -1070,7 +1070,7 @@ Today in the Cyber-world there is similar desperate race for survival, where we 
 &lt;div class=&#34;text-center&#34;&gt;
   &lt;a
     id=&#34;button-62059f8d62052633590d3f60ec092595&#34;
-    href=&#34;http://localhost:1313/signup&#34;
+    href=&#34;https://ananyasai.github.io/portfolio/signup&#34;
     
     
     
@@ -1132,7 +1132,7 @@ Today in the Cyber-world there is similar desperate race for survival, where we 
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-72ec86801f391f16b84b269ade9d2995&#34;
-    href=&#34;http://localhost:1313/files/document.pdf&#34;
+    href=&#34;https://ananyasai.github.io/portfolio/files/document.pdf&#34;
     
     
     
@@ -1251,9 +1251,9 @@ Today in the Cyber-world there is similar desperate race for survival, where we 
     
     <item>
       <title>Callouts</title>
-      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/callout/</link>
+      <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/callout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/callout/</guid>
+      <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/callout/</guid>
       <description>&lt;p&gt;Hugo Blox supports GitHub and Obsidian-style Markdown callouts for maximum compatibility and content portability.&lt;/p&gt;
 &lt;p&gt;Callouts are a useful feature to draw attention to important or related content such as notes, hints, or warnings in your articles.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
@@ -2118,9 +2118,9 @@ Today in the Cyber-world there is similar desperate race for survival, where we 
     
     <item>
       <title>Cards</title>
-      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/cards/</link>
+      <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/cards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/cards/</guid>
+      <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/cards/</guid>
       <description>&lt;p&gt;A Hugo extension to create cards. Cards can be shown as links or as plain text.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
 
@@ -2181,9 +2181,9 @@ Today in the Cyber-world there is similar desperate race for survival, where we 
     
     <item>
       <title>Internationalization (i18n)</title>
-      <link>http://localhost:1313/courses/hugo-blox/reference/i18n/</link>
+      <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/reference/i18n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/hugo-blox/reference/i18n/</guid>
+      <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/reference/i18n/</guid>
       <description>&lt;p&gt;Hugo Blox enables you to easily edit the interface text as well as translating your site into multiple languages using Hugo&amp;rsquo;s 
  feature.&lt;/p&gt;
 &lt;p&gt;View the full docs at 
@@ -2192,9 +2192,9 @@ Today in the Cyber-world there is similar desperate race for survival, where we 
     
     <item>
       <title>Spoilers</title>
-      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/toggle/</link>
+      <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/toggle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/toggle/</guid>
+      <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/toggle/</guid>
       <description>&lt;p&gt;A Hugo shortcode to toggle collapsible content.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
@@ -2218,9 +2218,9 @@ Today in the Cyber-world there is similar desperate race for survival, where we 
     
     <item>
       <title>Steps</title>
-      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/steps/</link>
+      <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/steps/</guid>
+      <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/steps/</guid>
       <description>&lt;p&gt;Display a series of steps, such as for a tutorial.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;
