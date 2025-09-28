@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infrastructure | Ananya Tadepalli – Professional Portfolio</title>
+    <link>https://ananyasai.github.io/portfolio/tags/infrastructure/</link>
+      <atom:link href="https://ananyasai.github.io/portfolio/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <description>Infrastructure</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ananyasai.github.io/portfolio/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Infrastructure</title>
+      <link>https://ananyasai.github.io/portfolio/tags/infrastructure/</link>
+    </image>
+    
+    <item>
+      <title>CompTIA Secure Infrastructure Expert – CSIE Stackable Certification</title>
+      <link>https://ananyasai.github.io/portfolio/certifications/comptia-secure-infrastructure-expert-csie/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/certifications/comptia-secure-infrastructure-expert-csie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

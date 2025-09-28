@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IBM Quantum | Ananya Tadepalli – Professional Portfolio</title>
+    <link>https://ananyasai.github.io/portfolio/tags/ibm-quantum/</link>
+      <atom:link href="https://ananyasai.github.io/portfolio/tags/ibm-quantum/index.xml" rel="self" type="application/rss+xml" />
+    <description>IBM Quantum</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ananyasai.github.io/portfolio/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>IBM Quantum</title>
+      <link>https://ananyasai.github.io/portfolio/tags/ibm-quantum/</link>
+    </image>
+    
+    <item>
+      <title>Basics of Quantum Information</title>
+      <link>https://ananyasai.github.io/portfolio/certifications/basics-of-quantum-information/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/certifications/basics-of-quantum-information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBM Quantum Challenge Fall 2022 Achievement - Advanced</title>
+      <link>https://ananyasai.github.io/portfolio/certifications/ibm-quantum-challenge-fall-2022-achievement-advanced/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/certifications/ibm-quantum-challenge-fall-2022-achievement-advanced/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
