@@ -75,12 +75,12 @@ sections:
   - block: collection
     id: certifications
     content:
-      title: "Relevant Courses & Certifications"
+      title: "Relevant Certifications"
       filters:
         folders:
           - certifications
     design:
-      view: card
+      view: article-grid
       columns: 3
 
   - block: collection
