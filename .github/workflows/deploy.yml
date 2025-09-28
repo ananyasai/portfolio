@@ -1,4 +1,4 @@
-name: Deploy Hugo site to Pages
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
@@ -6,37 +6,30 @@ on:
       - main
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      # Setup Node.js for TailwindCSS
+      - uses: actions/setup-node@v3
         with:
-          hugo-version: 'latest'
-          extended: true
+          node-version: 20
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      # Install dependencies using npm
+      - run: npm ci
+
+      # Install Hugo
+      - uses: peaceiris/actions-hugo@v0.12.0
         with:
-          node-version: '18'
+          hugo-version: '0.150.1'
 
-      - name: Install pnpm
-        run: npm install -g pnpm@10.14.0
+      # Build Hugo site
+      - run: hugo --cleanDestinationDir
 
-      - name: Install dependencies
-        run: pnpm install --frozen-lockfile
-
-      - name: Build with Hugo
-        run: hugo --cleanDestinationDir --minify
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      # Deploy to gh-pages
+      - uses: peaceiris/actions-gh-pages@v6
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: gh-pages
-          force_orphan: true
