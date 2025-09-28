@@ -73,6 +73,17 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: certifications
+    content:
+      title: "Relevant Courses & Certifications"
+      filters:
+        folders:
+          - certifications
+    design:
+      view: card
+      columns: 3
+
+  - block: collection
     id: news
     content:
       title: Recent News
