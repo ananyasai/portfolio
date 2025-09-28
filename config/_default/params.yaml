@@ -1,0 +1,67 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+
+# Appearance
+appearance:
+  mode: system        # system, light, or dark
+  color: indigo       # theme accent color
+
+media:
+  favicon: "media/favicon.ico"
+  apple_touch_icon: "media/apple-touch-icon.png"
+
+# SEO & Marketing
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: 'Ananya Tadepalli'
+    description: 'Official website and portfolio of Ananya Tadepalli – Computer Science undergraduate, cybersecurity advocate, author of Cyberville Chronicles, and founder of Cyber Defense Initiative.'
+    twitter: 'AnanyaCyber'   # Replace with your Twitter/X handle (without @)
+  analytics:
+    google_analytics: ''     # Add GA ID if you want tracking, e.g. G-XXXXXXX
+    plausible: ''            # Or your Plausible domain if using
+    fathom: ''               # Optional
+    pirsch: ''               # Optional
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+header:
+  navbar:
+    enable: true
+    block: 'navbar'
+    fixed_to_top: true
+    show_search: true
+    show_theme_chooser: true
+    logo:
+      text: 'Ananya Tadepalli'   # Replace with your name or short brand
+      # image: 'uploads/logo.png' # Uncomment if you want an image logo instead of text
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Ananya Tadepalli. All rights reserved.'
+    license:
+      enable: false   # You probably don’t want CC licensing for personal brand
+  links:
+    - text: "GitHub"
+      url: "https://github.com/ananyasai"
+      icon: "brands/github"
+    - text: "LinkedIn"
+      url: "https://www.linkedin.com/in/yourprofile/"
+      icon: "brands/linkedin"
+
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+
+# Site features
+features:
+  math:
+    enable: false
+  privacy_pack:
+    enable: false

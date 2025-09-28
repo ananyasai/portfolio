@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://ananyasai.github.io/portfolio/sitemap.xml
