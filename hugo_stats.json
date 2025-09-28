@@ -361,6 +361,7 @@
       "hover:text-gray-900",
       "hover:text-neutral-300",
       "hover:text-primary",
+      "hover:text-primary-600",
       "hover:text-primary-700",
       "hover:to-primary-700",
       "hover:to-secondary-700",

@@ -26,6 +26,6 @@ main:
   - name: Courses
     url: courses/
     weight: 40
-  - name: News
+  - name: Blogs
     url: /#news
     weight: 50

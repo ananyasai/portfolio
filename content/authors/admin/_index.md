@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Sophomore at Stanford University
+role: Stanford University Undergraduate Computer Science
 
 # # Organizations/Affiliations to display in Biography blox
 # organizations:
-#   - name: 'CFSI: The Cyber Security Forum Initiative'
+#   - name: 'CFSI Intern: The Cyber Security Forum Initiative'
 #     url: https://csfi.us/
 
 # Social network links
@@ -47,7 +47,7 @@ profiles:
 
 interests:
   - Quantum Computing
-  - Cyber Firensics
+  - Cyber Forensics
   - Reinforcement Learning
   - AI Ethics
 
