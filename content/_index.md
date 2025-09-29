@@ -83,6 +83,16 @@ sections:
       view: article-grid
       columns: 3
   - block: collection
+    id: projects
+    content:
+      title: "Relevant Projects"
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
     content:
       title: Relevant Courses
       text: ''
@@ -95,7 +105,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Recent Blogs
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
