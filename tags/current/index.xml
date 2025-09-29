@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current | Ananya Tadepalli – Professional Portfolio</title>
+    <link>https://ananyasai.github.io/portfolio/tags/current/</link>
+      <atom:link href="https://ananyasai.github.io/portfolio/tags/current/index.xml" rel="self" type="application/rss+xml" />
+    <description>Current</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ananyasai.github.io/portfolio/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Current</title>
+      <link>https://ananyasai.github.io/portfolio/tags/current/</link>
+    </image>
+    
+    <item>
+      <title>Disentangling the World of Quantum Computing?</title>
+      <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
