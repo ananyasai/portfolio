@@ -17,71 +17,7 @@
       <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/</link>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/</guid>
-      <description>&lt;hr&gt;
-&lt;p&gt;title: Disentangling the World of Quantum Computing?
-linkTitle: APPPHYS 110Q
-date: 2025-09-22
-type: docs
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Course&lt;/li&gt;
-&lt;li&gt;Current
-content_meta:
-content_type: &amp;lsquo;Course&amp;rsquo;
-difficulty: &amp;lsquo;Intermediate&amp;rsquo;
-prerequisites: [&amp;lsquo;Linear Algebra&amp;rsquo;, &amp;lsquo;Python&amp;rsquo;]
-trending: true&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;p&gt;title: Programming Abstractions
-linkTitle: CS 106B
-date: 2025-09-22
-type: docs
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Course&lt;/li&gt;
-&lt;li&gt;Current
-content_meta:
-content_type: &amp;lsquo;Course&amp;rsquo;
-difficulty: &amp;lsquo;Beginner&amp;rsquo;
-prerequisites: [&amp;lsquo;Python&amp;rsquo;, &amp;lsquo;Java&amp;rsquo;]
-trending: false&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;p&gt;title: Introduction to Perception
-linkTitle: PSYCH 30
-date: 2025-09-22
-type: docs
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Course&lt;/li&gt;
-&lt;li&gt;Current
-content_meta:
-content_type: &amp;lsquo;Course&amp;rsquo;
-difficulty: &amp;lsquo;Beginner&amp;rsquo;
-prerequisites: []
-trending: false&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;p&gt;title: Why College? Your Education and the Good Life
-linkTitle: COLLEGE 101
-date: 2025-09-22
-type: docs
-tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Course&lt;/li&gt;
-&lt;li&gt;Current
-content_meta:
-content_type: &amp;lsquo;Course&amp;rsquo;
-difficulty: &amp;lsquo;Beginner&amp;rsquo;
-prerequisites: []
-trending: false&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;👋 Welcome to your shiny new site. Ready to learn more?&lt;/p&gt;
+      <description>&lt;p&gt;👋 Welcome to your shiny new site. Ready to learn more?&lt;/p&gt;
 &lt;p&gt;This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the 
 .&lt;/p&gt;
 &lt;h2 id=&#34;next&#34;&gt;Next&lt;/h2&gt;
