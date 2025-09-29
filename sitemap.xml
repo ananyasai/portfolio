@@ -4,28 +4,6 @@
   
   
   <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/getting-started/</loc><lastmod>2024-02-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/reference/customization/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/project-structure/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/configuration/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/tags/course/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/tags/current/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/tags/hugo-blox/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/tags/</loc><lastmod>2025-09-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ananyasai.github.io/portfolio/tags/cybersecurity/</loc><lastmod>2025-08-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ananyasai.github.io/portfolio/publication_types/paper-conference/</loc><lastmod>2025-08-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -35,6 +13,8 @@
     <loc>https://ananyasai.github.io/portfolio/publications/</loc><lastmod>2025-08-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ananyasai.github.io/portfolio/tags/quantum-safe-cryptography/</loc><lastmod>2025-08-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ananyasai.github.io/portfolio/tags/</loc><lastmod>2025-08-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ananyasai.github.io/portfolio/publications/conference-paper/</loc><lastmod>2025-08-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -120,11 +100,7 @@
   <url>
     <loc>https://ananyasai.github.io/portfolio/tags/windows/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/media/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ananyasai.github.io/portfolio/experience/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/</loc><lastmod>2023-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ananyasai.github.io/portfolio/tags/cybersafety/</loc><lastmod>2023-09-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -154,16 +130,4 @@
   <url>
     <loc>https://ananyasai.github.io/portfolio/</loc><lastmod>2022-10-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/button/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/callout/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/cards/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/reference/i18n/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/reference/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/toggle/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ananyasai.github.io/portfolio/courses/hugo-blox/guide/formatting/steps/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://ananyasai.github.io/portfolio/courses/</loc><changefreq>weekly</changefreq></url></urlset>
