@@ -5,8 +5,9 @@ date: 2025-09-24
 type: docs
 
 tags:
-  - Hugo Blox
   - Course
+  - Current
+  - Hugo Blox
 
 content_meta:
   content_type: 'Course'
