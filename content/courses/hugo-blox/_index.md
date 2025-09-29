@@ -9,7 +9,7 @@ tags:
   - Current
 
 content_meta:
-  content_type: 'Course'
+  content_type: 'APPPHYS 110Q'
   difficulty: 'Intermediate'
   prerequisites: ['Linear Algebra', 'Quantum Physics']
   trending: false
