@@ -127,7 +127,7 @@ MIT © 2016-Present [George Cushen](https://georgecushen.com)
 ## My Notes
 Steps for Git Management:
 1. Get latest from Main by creating a pull request from main to ananya and merging it on github.com
-2. Pull latest from ananya branch to local VSCode using git pull\
+2. Pull latest from ananya branch to local VSCode using git pull
 3. Make changes
 4. git commit -am "insert what changes you made"
 5. git push

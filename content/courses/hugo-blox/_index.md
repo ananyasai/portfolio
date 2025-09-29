@@ -15,6 +15,70 @@ content_meta:
   trending: false
 ---
 
+---
+title: Disentangling the World of Quantum Computing?
+linkTitle: APPPHYS 110Q
+date: 2025-09-22
+type: docs
+tags:
+  - Course
+  - Current
+content_meta:
+  content_type: 'Course'
+  difficulty: 'Intermediate'
+  prerequisites: ['Linear Algebra', 'Python']
+  trending: true
+---
+
+---
+
+title: Programming Abstractions
+linkTitle: CS 106B
+date: 2025-09-22
+type: docs
+tags:
+  - Course
+  - Current
+content_meta:
+  content_type: 'Course'
+  difficulty: 'Beginner'
+  prerequisites: ['Python', 'Java']
+  trending: false
+---
+
+---
+
+title: Introduction to Perception
+linkTitle: PSYCH 30
+date: 2025-09-22
+type: docs
+tags:
+  - Course
+  - Current
+content_meta:
+  content_type: 'Course'
+  difficulty: 'Beginner'
+  prerequisites: []
+  trending: false
+---
+
+---
+
+title: Why College? Your Education and the Good Life
+linkTitle: COLLEGE 101
+date: 2025-09-22
+type: docs
+tags:
+  - Course
+  - Current
+content_meta:
+  content_type: 'Course'
+  difficulty: 'Beginner'
+  prerequisites: []
+  trending: false
+---
+
+
 👋 Welcome to your shiny new site. Ready to learn more?
 
 <!--more-->
