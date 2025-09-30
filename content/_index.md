@@ -100,6 +100,7 @@ sections:
         folders:
           - courses
         exclude_featured: false
+      count: 0
     design:
       view: citation
   - block: collection
