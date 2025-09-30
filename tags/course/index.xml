@@ -13,11 +13,93 @@
     </image>
     
     <item>
-      <title>Disentangling the World of Quantum Computing?</title>
-      <link>https://ananyasai.github.io/portfolio/courses/hugo-blox/</link>
+      <title>Disentangling the World of Quantum Computing</title>
+      <link>https://ananyasai.github.io/portfolio/courses/current/disentangling-the-world-of-quantum-computing/</link>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://ananyasai.github.io/portfolio/courses/hugo-blox/</guid>
-      <description></description>
+      <guid>https://ananyasai.github.io/portfolio/courses/current/disentangling-the-world-of-quantum-computing/</guid>
+      <description>&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programming Abstractions</title>
+      <link>https://ananyasai.github.io/portfolio/courses/current/programming-abstractions/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/courses/current/programming-abstractions/</guid>
+      <description>&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Perception</title>
+      <link>https://ananyasai.github.io/portfolio/courses/current/introduction-to-perception/</link>
+      <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/courses/current/introduction-to-perception/</guid>
+      <description>&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intro to Computing</title>
+      <link>https://ananyasai.github.io/portfolio/courses/completed/intro-to-computing/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/courses/completed/intro-to-computing/</guid>
+      <description>&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Object-Oriented Programming with Java</title>
+      <link>https://ananyasai.github.io/portfolio/courses/completed/introduction-to-object-oriented-programming-with-java/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/courses/completed/introduction-to-object-oriented-programming-with-java/</guid>
+      <description>&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linear Algebra</title>
+      <link>https://ananyasai.github.io/portfolio/courses/completed/linear-algebra/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/courses/completed/linear-algebra/</guid>
+      <description>&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multivariable Calculus</title>
+      <link>https://ananyasai.github.io/portfolio/courses/completed/multivariable-calculus/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/courses/completed/multivariable-calculus/</guid>
+      <description>&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Applied Combinatorics</title>
+      <link>https://ananyasai.github.io/portfolio/courses/completed/applied-combinatorics/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/courses/completed/applied-combinatorics/</guid>
+      <description>&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Differential Equations</title>
+      <link>https://ananyasai.github.io/portfolio/courses/completed/differential-equations/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ananyasai.github.io/portfolio/courses/completed/differential-equations/</guid>
+      <description>&lt;p&gt;
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>
