@@ -24,6 +24,7 @@ jobs:
       - uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.150.1'
+          extended: true
 
       # Build Hugo site
       - run: hugo --cleanDestinationDir
