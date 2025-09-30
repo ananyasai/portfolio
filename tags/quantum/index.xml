@@ -28,7 +28,10 @@
       <link>https://ananyasai.github.io/portfolio/projects/quantum-classifier/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://ananyasai.github.io/portfolio/projects/quantum-classifier/</guid>
-      <description>&lt;p&gt;A novel approach to &amp;hellip;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Developed a Variational Quantum Classifier (VQC) to improve credit card fraud detection by encoding data into quantum states and optimizing it with a custom cost function.
+Used a Kaggle credit card fraud dataset to benefit from quantum computing’s speed and accuracy over classical methods.
+Addressed implementation challenges, created custom encoding and auto-encoding, and optimized parameters using Particle Swarm Optimization (PSO).
+Showcased quantum computing’s potential to advance fraud detection and other complex data problems.&lt;/p&gt;</description>
     </item>
     
   </channel>
