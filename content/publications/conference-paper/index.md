@@ -2,7 +2,7 @@
 title: 'The Impact of Quantum-Safe Cryptography (QSC) on Website Response'
 
 authors:
-  - admin
+  - Ananya Tadepalli
 
 date: '2025-08-14T00:00:00Z'
 
