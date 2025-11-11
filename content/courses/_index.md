@@ -18,7 +18,7 @@ sections:
   - block: collection
     id: all-courses
     content:
-      title: All Courses
+      title: Relevant Courses
       filters:
         folders:
           - courses
