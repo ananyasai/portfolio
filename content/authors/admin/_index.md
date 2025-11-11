@@ -86,8 +86,7 @@ work:
     date_start: 2025-10-01
     date_end: ''
     summary: |2-
-      Investigating quantum phase transitions and vortices in two-dimensional Josephson junction lattices to determine the system’s
-global phase by cooling the array using thermalization techniques and measuring properties like resistance and magnetism
+      Investigating quantum phase transitions and vortices in two-dimensional Josephson junction lattices to determine the system’s global phase by cooling the array using thermalization techniques and measuring properties like resistance and magnetism
   - position: Cyber Threat Intelligence Intern
     company_name: The Cyber Security Forum Initiative
     company_url: 'https://www.csfi.us/'
