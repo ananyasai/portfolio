@@ -52,12 +52,12 @@ interests:
   - AI Ethics
 
 education:
-  - area: Bachelor of Science in Computer Science (AI Concentration)
+  - area: Bachelor of Science in Physics and Computer Science
     institution: Stanford University, Stanford, CA
     date_start: 2025-09-01
     date_end: 2029-06-01
     summary: |
-      Currently pursuing a B.S. in Computer Science with a concentration in Artificial Intelligence.
+      Currently pursuing a B.S. in Physics and Computer Science with a concentration in Artificial Intelligence.
 
       Relevant courses: Linear Algebra, Differential Equations, Multivariable Calculus, Applied Combinatorics, Python, Java.
   - area: Distance Learning Program
@@ -225,4 +225,4 @@ awards:
 
 ---
 
-Ananya Tadepalli is a cybersecurity and AI enthusiast pursuing a B.S. in Computer Science at Stanford University. She has hands-on experience in threat intelligence, blockchain forensics, and quantum-safe cryptography research, with publications and presentations at national computing conferences. Ananya is the founder of a 50-member cybersecurity nonprofit, developing community-focused tools and awareness programs. Skilled in Python, Java, C++, cloud platforms, and security frameworks, she is passionate about translating cutting-edge research into practical solutions that enhance security and educate communities.
+Ananya Tadepalli is a cybersecurity, AI, and quantum computing researcher pursuing a B.S. in Computer Science and Physics at Stanford University. She has hands-on experience in threat intelligence, blockchain forensics, and quantum-safe cryptography research, with publications and presentations at national computing conferences. Ananya is the founder of a 50-member cybersecurity nonprofit, developing community-focused tools and awareness programs. Skilled in Python, Java, C++, cloud infrastructure, and quantum development frameworks, she is passionate about translating quantum theory and advanced security research into scalable, production-grade systems that enhance resilience in emerging technologies.
