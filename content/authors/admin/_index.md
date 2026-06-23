@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Stanford University Undergraduate Computer Science
+role: Stanford University Undergraduate Computer Science & Physics
 
 # # Organizations/Affiliations to display in Biography blox
 # organizations:
@@ -36,8 +36,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:atadepalli789@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/ananyasai
   - icon: brands/linkedin
